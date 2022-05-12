@@ -1,1 +1,2 @@
-# Cinema room REST service
+# Cinema Room REST Service  
+Small virtual cinema implementation with the SpringBoot
