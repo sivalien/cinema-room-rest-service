@@ -1,1 +1,1 @@
-# cinema-room-rest-service
+# Cinema room REST service
